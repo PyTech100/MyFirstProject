@@ -15,10 +15,12 @@ print("This is the end of the file.")
 
 
 def first_func():
-    print("This is the function")
-    print("First func")
+    print("This is a function")
 
 
 def second_func():
     print('Second func')
 
+
+def third_func():
+    print("Third func")
