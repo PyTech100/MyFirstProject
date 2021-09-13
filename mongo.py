@@ -12,3 +12,12 @@ server_status = db.command("serverStatus")
 pretty.pprint(server_status)
 
 print("This is the end of the file.")
+
+
+def first_func():
+    print("First func")
+
+
+def second_func():
+    pass
+
