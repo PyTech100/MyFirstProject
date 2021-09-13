@@ -11,6 +11,4 @@ db = client.test
 server_status = db.command("serverStatus")
 pretty.pprint(server_status)
 
-
-
-
+print("This is the end of the file.")
