@@ -15,7 +15,8 @@ print("This is the end of the file.")
 
 
 def first_func():
-    print("This is a function")
+    print("This is the function")
+    print("First func")
 
 
 def second_func():
