@@ -19,5 +19,5 @@ def first_func():
 
 
 def second_func():
-    pass
+    print("Second func")
 
